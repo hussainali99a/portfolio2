@@ -1,0 +1,6 @@
+.certificates{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-left: 15%;
+}
